@@ -50,6 +50,7 @@ For the `part3.ipynb` notebook to work properly, you must manually download and 
 
 2. **Download the database:**
    Download the CBIS-DDSM database archive (typically provided on Kaggle or via your school).
+   **Link:** [CBIS-DDSM Breast Cancer Image Dataset](https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset?resource=download)
 
 3. **Extract the archive (Unzip):**
    Extract the database contents **inside the `images` folder**. You must ensure that the CSV files are located exactly at the following paths:
