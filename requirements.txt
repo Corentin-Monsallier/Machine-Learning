@@ -10,3 +10,5 @@ opencv-python
 pydicom
 jupyter
 ipykernel
+tensorflow
+imbalanced-learn
